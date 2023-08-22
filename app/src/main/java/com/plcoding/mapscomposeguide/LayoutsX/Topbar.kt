@@ -33,7 +33,8 @@ fun Topbar()
                     }
                 },
                 actions = {
-                    IconButton(onClick = { /*TODO*/ }) {
+                    IconButton(onClick = {
+                    }) {
                         Icon(
                             imageVector = Icons.Default.LocationOn,
                             contentDescription = "Locations")
